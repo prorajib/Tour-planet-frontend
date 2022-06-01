@@ -1,0 +1,17 @@
+.contact {
+  min-height: 80%;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
+    url('https://i.ibb.co/yqMPgR9/about-us.jpg');
+  background-size: cover;
+  height: 550px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact h1 {
+  color: white;
+  font-size: 65px;
+}
+.contact-color {
+  color: #ff8906;
+}

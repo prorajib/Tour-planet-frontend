@@ -1,0 +1,13 @@
+.confirm-color {
+  color: #ff8906;
+}
+.placeOrder-container h2 {
+  font-size: 40px;
+  font-weight: 600;
+}
+.placeorder-line {
+  display: inline-block;
+  width: 10%;
+  border-top: 3px solid #ff8906;
+  margin-bottom: 40px;
+}

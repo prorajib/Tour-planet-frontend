@@ -1,0 +1,43 @@
+.add-destination-wraper {
+  padding: 40px;
+  background-color: #0f0e17;
+}
+.add-destination-wraper h2 {
+  color: white;
+  font-size: 45px;
+}
+.destination-heading {
+  color: #ff8906;
+  margin-top: 40px;
+}
+
+.destination-head-line {
+  display: inline-block;
+  width: 10%;
+  border-top: 3px solid #ff8906;
+  margin-bottom: 40px;
+}
+.add-destination-wraper form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.add-destination-wraper textarea {
+  width: 40%;
+  background-color: rgb(209, 220, 230);
+}
+.add-destination-wraper form input,
+textarea {
+  text-align: center;
+  width: 40%;
+  padding: 8px;
+  margin: 8px;
+  border-radius: 5px;
+  border: 2px solid #ff8906;
+  background-color: rgb(209, 220, 230);
+}
+.add-destination-wraper .submit-form {
+  background-color: #ff8906;
+  color: white;
+  font-weight: 500;
+}

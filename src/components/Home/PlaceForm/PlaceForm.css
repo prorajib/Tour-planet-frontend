@@ -1,0 +1,24 @@
+.confirm-booking-form form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.confirm-booking-form form input,
+textarea {
+  padding: 8px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  width: 60%;
+  border: 2px solid #ff8906;
+  border-radius: 5px;
+  background-color: rgba(1, 13, 25, 0.902);
+  color: white;
+}
+.confirmbutton {
+  background-color: #ff8906 !important;
+  font-weight: 600;
+}
+.confirmbutton:hover {
+  background-color: #c86005 !important;
+}

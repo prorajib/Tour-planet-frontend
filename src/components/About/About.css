@@ -1,0 +1,22 @@
+.about-us {
+  min-height: 80%;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
+    url('https://i.ibb.co/yqMPgR9/about-us.jpg');
+  background-size: cover;
+  height: 550px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about-us h1 {
+  color: white;
+  font-size: 60px;
+}
+.about-color {
+  color: #ff8906;
+}
+.about-txt {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 18px;
+}

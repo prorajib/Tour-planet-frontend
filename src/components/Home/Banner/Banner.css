@@ -1,0 +1,26 @@
+.banner-img {
+  min-height: 100%;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(https://images.unsplash.com/photo-1612302054842-dd29a0f0efe1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1033&q=80);
+  background-size: cover;
+  height: 550px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.banner-text {
+  text-align: center;
+  color: white;
+  padding: 0 15% 0 15%;
+}
+.banner-text h1 {
+  line-height: 1.5em;
+  font-size: 60px;
+  font-weight: bold;
+}
+.banner-text p {
+  font-size: 18px;
+}
+.banner-heading {
+  color: #ff8906;
+}

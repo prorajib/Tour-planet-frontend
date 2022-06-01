@@ -1,0 +1,19 @@
+.place-order-info {
+  width: 70%;
+
+  background-color: rgb(2, 32, 63);
+  border-radius: 10px;
+  color: white;
+}
+.place-order-info img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.place-order-info h3 {
+  color: white;
+  padding: 10px;
+}
+.place-order-info p {
+  padding: 10px 10px 20px 10px;
+}

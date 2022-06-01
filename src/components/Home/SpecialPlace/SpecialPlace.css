@@ -1,0 +1,36 @@
+.special-place {
+  background-color: #212529;
+  color: white;
+  padding: 50px 0 50px 0;
+  position: relative;
+}
+.special-place h3 {
+  color: #ff8906;
+  padding-top: 50px;
+  text-align: justify;
+}
+.special-place h1 {
+  text-align: justify;
+}
+.special-place p {
+  text-align: justify;
+  position: relative;
+}
+.special-btn {
+  border: 2px solid #ff8906;
+  outline: none;
+  padding: 10px 18px 10px 18px;
+  background-color: #212529;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 25px;
+  transition: all ease 0.3s;
+}
+.special-btn:hover {
+  background-color: #ff8906;
+}
+
+.special-img {
+  border-radius: 5px;
+}

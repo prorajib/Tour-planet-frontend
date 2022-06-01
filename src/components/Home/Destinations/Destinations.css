@@ -1,0 +1,60 @@
+.destination-main {
+  background-color: rgb(16, 16, 22);
+  padding-bottom: 50px;
+}
+.destination-main > h1 {
+  color: white;
+  padding: 40px 0 0px 0;
+}
+.destination-main .card-style {
+  border-radius: 15px;
+  border: none;
+}
+.card-col > .card-style {
+  border-radius: 20px;
+}
+
+.card-body {
+  background-color: rgb(1, 14, 37);
+  color: white;
+  border-radius: 0 0 10px 10px;
+}
+.card-title {
+  font-weight: bold;
+}
+.card-img {
+  width: 100%;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.card-description {
+  color: rgb(211, 204, 204);
+}
+.card-button {
+  padding: 8px 16px 8px 16px;
+  border: 2px solid #ff8906;
+  background-color: #ff8906;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 20px;
+  transition: all ease-in 0.2s;
+}
+.card-button:hover {
+  background-color: black;
+  color: white;
+}
+.card-price {
+  font-weight: bold;
+}
+.des-head {
+  display: inline-block;
+  width: 10%;
+  border-top: 3px solid #ff8906;
+  margin-bottom: 40px;
+  margin-top: 10px;
+}
+.des-head-color {
+  color: #ff8906;
+  padding-right: 8px;
+}
